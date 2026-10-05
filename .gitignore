@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+academico.db
+.env
+logs/*.log
+logs/*.csv
